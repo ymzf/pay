@@ -29,12 +29,12 @@ require_once '..../Api.php';
 
 ## 依赖
 
-The bindings require the following extensions in order to work properly:
+环境需要以下扩展才能正常工作：
 
--   [`curl`](https://secure.php.net/manual/en/book.curl.php), although you can use your own non-cURL client if you prefer
+-   [`curl`](https://secure.php.net/manual/en/book.curl.php), 不过如果您愿意，也可以使用自己的非curl客户端
 -   [`json`](https://secure.php.net/manual/en/book.json.php)
 
-If you use Composer, these dependencies should be handled automatically. If you install manually, you'll want to make sure that these extensions are available.
+如果使用Composer，这些依赖项应该被自动处理。如果您手动安装，您需要确保这些扩展是可用的。
 
 ## 使用示例
 
