@@ -1,0 +1,9 @@
+{
+    "name": "ymzf/pay",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ymzf\\Pay\\": "src/"
+        }
+    }
+}
