@@ -16,7 +16,7 @@ class Api
     public function __construct($app_id, $apiKey = "")
     {
         // 固定的API基础URL
-        $this->apiBaseUrl = 'https://frp.980.lol:8443/api';
+        $this->apiBaseUrl = 'https://www.ymzf.org/api';
         // 应用ID
         $this->app_id = $app_id;
         $this->apiKey = $apiKey;
