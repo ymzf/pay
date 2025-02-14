@@ -13,7 +13,7 @@ PHP 5.6.0 及更高版本
 composer require ymzf/pay
 ```
 
-To use the bindings, use Composer's [autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading):
+请使用 [autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading) 的自动加载：
 
 ```php
 require_once 'vendor/autoload.php';
